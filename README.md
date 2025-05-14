@@ -1,12 +1,23 @@
-# VCU-Net
-The code of paper :
+  # VCU-Net
 
-##  A Vignetting-Correction-Based Underwater Image Enhancement Method for AUV With Artificial Light
+>The code of paper :
+>
+>###  A Vignetting-Correction-Based Underwater Image Enhancement Method for AUV With Artificial Light
+>
+>Zetian Mi, Shuaiyong Jiang, Yuanyuan Li, Huibing Wang, Xianping Fu, Zheng Liang, Peixian Zhuang
+>
+>You can find our paper on ([IEEE JOURNAL OF OCEANIC ENGINEERING](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10742608))
 
-Zetian Mi, Shuaiyong Jiang, Yuanyuan Li, Huibing Wang, Xianping Fu, Zheng Liang, Peixian Zhuang
+### Code
+Our code will be released soon!
 
-You can find our paper on [IEEE JOURNAL OFOCEANICENGINEERING]([IEEE Xplore Full-Text PDF:](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10742608))
-## Citation
+### Datasets
+Prepare dataset:
+1. You can download our dataset on 
+
+### Citation
+If you are using our dataset, please cite our paper.
+```
 @article{mi2024vignetting,
   title={A Vignetting-Correction-Based Underwater Image Enhancement Method for AUV With Artificial Light},
   author={Mi, Zetian and Jiang, Shuaiyong and Li, Yuanyuan and Wang, Huibing and Fu, Xianping and Liang, Zheng and Zhuang, Peixian},
@@ -14,3 +25,4 @@ You can find our paper on [IEEE JOURNAL OFOCEANICENGINEERING]([IEEE Xplore Full-
   year={2024},
   publisher={IEEE}
 }
+```
